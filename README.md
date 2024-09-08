@@ -55,5 +55,12 @@
   <li><strong>Frontend:</strong> React.js, Axios.</li>
   <li><strong>ML Libraries:</strong> Hugging Face, FAISS.</li>
 </ul>
+<h2>Screenshots</h2>
+<p>(<img width="948" alt="6" src="https://github.com/user-attachments/assets/35d0742a-0214-4e6f-a449-cb66d89e32f2">
+<img width="949" alt="3" src="https://github.com/user-attachments/assets/c2fe4367-fe52-469e-bdf9-dda4c3905f15">
+<img width="949" alt="2" src="https://github.com/user-attachments/assets/526f6daf-cd53-4b67-a5a1-9bc33e5225e2">
+<img width="949" alt="1" src="https://github.com/user-attachments/assets/298a7a29-f65a-4198-94ae-f857545041c9">
 
+
+)</p>
 
