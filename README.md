@@ -56,17 +56,4 @@
   <li><strong>ML Libraries:</strong> Hugging Face, FAISS.</li>
 </ul>
 
-<h2>Contributing</h2>
-<ol>
-  <li>Fork repo and create a branch.</li>
-  <li>Commit changes and submit a pull request.</li>
-</ol>
 
-<h2>License</h2>
-<p>MIT License.</p>
-
-<h2>Contact</h2>
-<ul>
-  <li><strong>Owner:</strong> [Your Name]</li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/yourusername">https://github.com/yourusername</a></li>
-</ul>
